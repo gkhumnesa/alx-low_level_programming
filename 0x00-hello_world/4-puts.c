@@ -1,4 +1,4 @@
-#iclude < studio.h >
+#iclude <stdio.h>
 
 int main(void)
 {
