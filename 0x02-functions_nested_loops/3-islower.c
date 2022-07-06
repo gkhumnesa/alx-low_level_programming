@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _islower -> check lowercase
+ * _islower -> check lowercase
  * @c: character argument
  * Return: return 1 or o based on the condition
  */
