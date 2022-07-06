@@ -6,7 +6,7 @@
  * Return: return 1 or o based on the condition
  */
 
-int _islower(int c);
+int _islower(int c)
 {
 	return (c >= 'a' && c <= 'z');
 }
